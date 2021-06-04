@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @akshay8760
 - 👀 I’m interested in FULL STACK DEVELOPMENT
 - 🌱 I’m currently learning MERN Stack, Blockchain and Cloud Technologies
+- 🦾 I know JAVA, MySQl, HTML, CSS, BOOTSTRAP, Php & JavaScript
 - 💞️ I’m currently working on my own website(www.medjeeexam.com)
 - 📫 You can reach me at akshayrishabh6000@gmail.com
 
